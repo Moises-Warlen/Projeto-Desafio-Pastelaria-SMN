@@ -1,0 +1,14 @@
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb
+D:\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.dll
+D:\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Repository.pdb
+D:\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.dll
+D:\Pastel\Pastel\Api\Pastelaria.Repository\bin\Debug\Pastelaria.Domain.pdb
+D:\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.csprojResolveAssemblyReference.cache
+D:\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.dll
+D:\Pastel\Pastel\Api\Pastelaria.Repository\obj\Debug\Pastelaria.Repository.pdb

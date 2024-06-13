@@ -1,0 +1,10 @@
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Domain\bin\Debug\Pastelaria.Domain.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Domain\bin\Debug\Pastelaria.Domain.pdb
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Domain\obj\Debug\Pastelaria.Domain.csprojResolveAssemblyReference.cache
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Domain\obj\Debug\Pastelaria.Domain.dll
+C:\Projetos\ProjetoTesteEstagiarios\Pastel\Api\Pastelaria.Domain\obj\Debug\Pastelaria.Domain.pdb
+D:\Pastel\Pastel\Api\Pastelaria.Domain\bin\Debug\Pastelaria.Domain.dll
+D:\Pastel\Pastel\Api\Pastelaria.Domain\bin\Debug\Pastelaria.Domain.pdb
+D:\Pastel\Pastel\Api\Pastelaria.Domain\obj\Debug\Pastelaria.Domain.csprojResolveAssemblyReference.cache
+D:\Pastel\Pastel\Api\Pastelaria.Domain\obj\Debug\Pastelaria.Domain.dll
+D:\Pastel\Pastel\Api\Pastelaria.Domain\obj\Debug\Pastelaria.Domain.pdb
